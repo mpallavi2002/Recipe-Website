@@ -1,0 +1,23 @@
+/* Navbar.css */
+nav {
+  background-color: #6334db; /* Change to your desired background color */
+  color:whitesmoke ; /* Change to your desired text color */
+  padding: 10px;
+}
+
+
+.logo {
+    width: 100px; 
+    height: 20x; 
+    margin-right: 10px; 
+  }
+  
+ 
+  .nav-left {
+    display: flex;
+    align-items: center;
+    height: 50px;
+   
+  }
+  
+  
